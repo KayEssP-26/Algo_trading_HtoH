@@ -118,4 +118,4 @@ Powered by `gspread` + `oauth2client`.
 ## 🙋‍♂️ Author
 
 **Karan Singh** 
-Karans.s.punni@gmail.com
+Karan.s.punni@gmail.com
