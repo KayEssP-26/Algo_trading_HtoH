@@ -1,0 +1,13 @@
+pandas
+yfinance
+datetime
+logging
+gspread
+oauth2client
+gspread_dataframe
+pathlib
+typing
+numpy
+sklearn
+joblib
+pathlib
